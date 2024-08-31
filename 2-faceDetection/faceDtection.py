@@ -2,7 +2,8 @@ import cv2
 import mediapipe as mp
 import time
 
-# cap = cv2.VideoCapture('2-faceDetection/videos/video7.mp4')
+#vous pouvez utiliser une source distance  ou une video local 
+# cap = cv2.VideoCapture('2-faceDetection/videos/video7.mp4') 
 cap = cv2.VideoCapture('http://192.168.137.254:8080/video')
 
 pTime = 0
