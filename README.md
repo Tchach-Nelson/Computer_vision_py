@@ -1,9 +1,9 @@
 # Computer_vision_py
 Dans le cadre de ce projet, j'ai exploité la bibliothèque MediaPipe de Google pour réaliser plusieurs applications de vision assistée par ordinateur. MediaPipe, en tant que framework puissant, permet de traiter les flux vidéo en temps réel tout en fournissant des solutions de machine learning prêtes à l'emploi. J'ai développé quatre projets distincts qui démontrent les capacités de MediaPipe dans divers scénarios :
 
-    Hand Tracking : Un système de suivi des mains en temps réel capable de détecter et de suivre les mouvements des mains avec une grande précision. Cette application peut être utilisée pour des interactions sans contact avec des interfaces numériques.
-
-    Pose Estimation : Un algorithme d'estimation de la pose humaine permettant de détecter et suivre les positions des différentes articulations du corps humain, utile dans des domaines tels que le fitness ou les jeux interactifs.
+    Hand Tracking : Un système de suivi des mains en temps réel capable de détecter et de suivre les mouvements des mains avec une grande précision.
+    
+    Pose Estimation : Un algorithme d'estimation de la pose humaine permettant de détecter et suivre les positions des différentes articulations du corps humain.
 
     Face Detection : Une solution pour détecter et suivre les visages dans les flux vidéo en temps réel, pouvant servir à des applications telles que la reconnaissance faciale ou l'analyse d'expressions faciales.
 
